@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Andrick",
+      "lastName": "Silva",
+      "email": "and009@chowgules.ac.in"
+    },
+    {
+      "id": 2,
+      "firstName": "Justen",
+      "lastName": "Silva",
+      "email": "jus001@chowgules.ac.in"
+    },
+    {
+      "id": 3,
+      "firstName": "Gavin",
+      "lastName": "Pereira",
+      "email": "Gav033@chowgules.ac.in"
+    },
+    {
+      "id": 4,
+      "firstName": "Blaze",
+      "lastName": "Naik",
+      "email": "bla008@chowgules.ac.in"
+    }
+  ]
+}
